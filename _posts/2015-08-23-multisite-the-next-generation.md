@@ -9,9 +9,9 @@ Led by: `jeremyfelt`
 
 There are proposals for the following classes:
 
-* `WP_Site`
-* `WP_Network`
-* `WP_Network_Query`
+* `WP_Site` [ticket](https://core.trac.wordpress.org/ticket/32450)
+* `WP_Network` [ticket](https://core.trac.wordpress.org/ticket/31985)
+* `WP_Network_Query` [ticket](https://core.trac.wordpress.org/ticket/32504)
 * `WP_Site_Query`
 
 With a few hands on UI, we can make bigger strides on the some of the screens.

@@ -16,3 +16,12 @@ On the burner for this release:
 
 * [Partial Refresh](https://core.trac.wordpress.org/ticket/27355)
 * potentially, [Transactions](https://core.trac.wordpress.org/ticket/30937)
+
+Pros:
+
+* We are relying on the Customzer for Theme Options now, the experience needs to scale
+
+Cons:
+
+* The Customizer is a black box for many people, sometimes even more than Media is.
+We need more people to take the plunge and learn these APIs.
