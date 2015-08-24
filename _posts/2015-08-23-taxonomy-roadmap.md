@@ -23,4 +23,4 @@ Things to do next:
 * Hopefully land a `WP_Term` model
 * make Term Meta a thing
 
-@boone has been crushing all of this stuff. The next logical step is to keep going.
+`boone` has been crushing all of this stuff. The next logical step is to keep going.

@@ -5,7 +5,7 @@ permalink: /responsive-images/
 elevator_pitch: Remember when we wanted Retina Images in 3.5? This would have helped.
 ---
 
-Led by: Joe McGill, `tevko`, `dnewton`, `jaspermdegroot`, `wilto`
+Led by: `joemcgill`, `tevko`, `dnewton`, `jaspermdegroot`, `wilto`
 
 Remember when we wanted Retina Images in 3.5? This would have helped.
 
