@@ -21,6 +21,7 @@ better.
 * Page on Front perhaps with: Dave M and Folletto?
 
 **Pros:**
+
 * The WordPress admin code becomes more elegant
 * Data can be exposed via REST routes - getting the admin menu, etc
 * Data is retrievable in a way that makes building admins via REST possible
