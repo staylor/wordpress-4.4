@@ -5,4 +5,4 @@ permalink: /responsive-images/
 elevator_pitch: Remember when we wanted Retina Images in 3.5? This would have helped.
 ---
 
-Gaggle of people
+There's a [plugin](https://github.com/ResponsiveImagesCG/wp-tevko-responsive-images)

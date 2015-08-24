@@ -18,7 +18,7 @@ Things to do next:
 
 * Potentially combine the 2 terms tables
 * Do something like setting `$wpdb->terms` to `$wpdb->term_taxonomy`
-* `WP_Term`?
+* Hopefully land a `WP_Term` model
 * make Term Meta a thing
 
 @boone has been crushing all of this stuff. The next logical step is to keep going.
