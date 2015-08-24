@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Editor / Formatting editions
+title: Editor / Formatting additions
 permalink: /editor-improvements/
 elevator_pitch: The next step in formatting and previewing improvements
 ---
