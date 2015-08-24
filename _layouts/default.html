@@ -18,9 +18,6 @@
         <h1>Wordpress-4.4</h1>
         <p>Notes</p>
 
-        <p class="view"><a href="https://github.com/WordPress/WordPress">View the Project on GitHub <small>WordPress/WordPress</small></a></p>
-		<p class="view"><a href="https://develop.svn.wordpress.org">View the Project on SVN <small>develop.svn.wordpress.org</small></a></p>
-
 		{% for post in site.posts %}
 		<h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
 		{% endfor %}
