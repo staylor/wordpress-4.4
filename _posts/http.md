@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTTP
-permalink: /http.html
+permalink: /http/
 ---
 
 Our internal HTTP API is showing its age. To support the kind of PHP apps that people
