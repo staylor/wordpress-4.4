@@ -6,6 +6,8 @@ elevator_pitch: dd32 and rmmcue are going to try to replace the internals of the
    HTTP API with Requests.
 ---
 
+Led by: `dd32`, 'rmccue'
+
 Our internal HTTP API is showing its age. To support the kind of PHP apps that people
 are making with WordPress, we need a more modern set of tools. Ryan McCue has authored a
 library called [Requests](http://requests.ryanmccue.info/). He has also created a plugin called

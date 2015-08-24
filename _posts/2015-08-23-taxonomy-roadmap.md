@@ -5,6 +5,8 @@ permalink: /taxonomy-roadmap/
 elevator_pitch: boone has been tearing up the roadmap, will continue work this cycle
 ---
 
+Led by: `boone`, `pento`
+
 Based on my [call for feedback](https://make.wordpress.org/core/2015/08/19/wordpress-4-4-whats-on-your-wishlist/),
 a lot of people want to see Term Meta land. Good for us: it's already on our
 [Taxonomy Roadmap](https://make.wordpress.org/core/2013/07/28/potential-roadmap-for-taxonomy-meta-and-post-relationships/).

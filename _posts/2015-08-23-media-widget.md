@@ -5,6 +5,8 @@ permalink: /media-widget/
 elevator_pitch: There is no default widget to add an Image/Audio/Video etc in the sidebar.
 ---
 
+Led by: `sheri`, 'melchoyce'
+
 This is on Mel Choyce's [wishlist](https://choycedesign.com/2015/01/23/my-top-wordpress-pain-points/).
 
 Instead of just an "Image" widget that uses the Media Library, why not a Media widget? Sheri
