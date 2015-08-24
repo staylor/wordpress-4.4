@@ -21,7 +21,7 @@
 		{% endif %}
         <p>Feature Notes</p>
 
-		{% for post in site.posts %}
+		{% for post in site.posts reversed %}
 		  {% if post.url == page.url %}
 		  <h4>{{ post.title }}</h4>
 		  {% else %}
