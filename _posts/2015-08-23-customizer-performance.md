@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Customizer Improvements
-permalink: /customizer/
+title: Customizer Performance
+permalink: /customizer-performance/
 elevator_pitch: Customizer progress has been constant, there is even more room for big gains
 ---
 
