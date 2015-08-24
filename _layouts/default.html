@@ -18,14 +18,16 @@
         <h1>Wordpress-4.4</h1>
         <p>Notes</p>
 
-        <p class="view"><a href="https://github.com/staylor/wordpress-4.4">View the Project on GitHub <small>staylor/wordpress-4.4</small></a></p>
-
-
+        <p class="view"><a href="https://github.com/WordPress/WordPress">View the Project on GitHub <small>WordPress/WordPress</small></a></p>
+		<p class="view"><a href="https://develop.svn.wordpress.org">View the Project on SVN <small>develop.svn.wordpress.org</small></a></p>
         <ul>
           <li><a href="https://github.com/staylor/wordpress-4.4/zipball/master">Download <strong>ZIP File</strong></a></li>
           <li><a href="https://github.com/staylor/wordpress-4.4/tarball/master">Download <strong>TAR Ball</strong></a></li>
           <li><a href="https://github.com/staylor/wordpress-4.4">View On <strong>GitHub</strong></a></li>
         </ul>
+		{% for post in site.posts %}
+		<a href="{{ post.url }}">{{ post.title }}</a>
+		{% endfor %}
       </header>
       <section>
 			{{ content }}
