@@ -1,1 +1,2 @@
 baseurl: /wordpress-4.4
+permalink: /:title

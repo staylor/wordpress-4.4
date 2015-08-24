@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HTTP
-permalink: /:title
 ---
 
 Our internal HTTP API is showing its age. To support the kind of PHP apps that people
