@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Multisite Improvements
-permalink: /multisite-improvements/
-elevator_pitch: Believe it or not, Multisite isn't perfect and there are some improvements we can make
+title: Multisite, the Next Generation
+permalink: /multisite-the-next-generation/
+elevator_pitch: Believe it or not, Multisite isn't perfect and there are some improvements we can make for the future
 ---
 
 Led by: `jeremyfelt`

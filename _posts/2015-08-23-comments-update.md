@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Comments Improvements
-permalink: /comments-improvements/
+title: Comment Moderation + Heartbeart
+permalink: /comment-moderation-heartbeat/
 elevator_pitch: Comment moderation might be able to take advantage of Heartbeat
 ---
 
