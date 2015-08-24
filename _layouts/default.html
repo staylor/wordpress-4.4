@@ -15,11 +15,9 @@
   <body>
     <div class="wrapper">
       <header>
-		  {{ page.url }}
-		{% if page.url == "/index.html" %}
 		<h1>WordPress 4.4</h1>
-		{% else %}
-		<h1><a href="{{ site.baseurl }}/">WordPress 4.4</a></h1>
+		{% if page.url != "/index.html" %}
+		<a href="{{ site.baseurl }}/">Back to Home</a>
 		{% endif %}
         <p>Feature Notes</p>
 
