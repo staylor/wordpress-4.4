@@ -14,3 +14,10 @@ some work we can do here with the Heartbeat API.
 
 I recently dug into some of the ancient comment code to fix bubble counts dynamically when inline
 moderation happens.
+
+**Pros:**
+* Live comment moderation, doesn't require refreshing the page to see new comments
+or find out that there are comments to be moderated.
+* a chance to make use of Heartbeat
+
+**Cons:** The JS that powers the list table screen for comments now is old and painful to work with.
