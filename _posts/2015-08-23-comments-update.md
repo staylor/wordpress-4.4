@@ -16,6 +16,7 @@ I recently dug into some of the ancient comment code to fix bubble counts dynami
 moderation happens.
 
 **Pros:**
+
 * Live comment moderation, doesn't require refreshing the page to see new comments
 or find out that there are comments to be moderated.
 * a chance to make use of Heartbeat
