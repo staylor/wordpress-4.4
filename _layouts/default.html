@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ page.title }}</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <link rel="stylesheet" href="/stylesheets/styles.css">
+    <link rel="stylesheet" href="/stylesheets/github-light.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -20,18 +20,14 @@
 
         <p class="view"><a href="https://github.com/WordPress/WordPress">View the Project on GitHub <small>WordPress/WordPress</small></a></p>
 		<p class="view"><a href="https://develop.svn.wordpress.org">View the Project on SVN <small>develop.svn.wordpress.org</small></a></p>
-        <ul>
-          <li><a href="https://github.com/staylor/wordpress-4.4/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/staylor/wordpress-4.4/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/staylor/wordpress-4.4">View On <strong>GitHub</strong></a></li>
-        </ul>
+
 		{% for post in site.posts %}
-		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+		<h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
 		{% endfor %}
       </header>
       <section>
-			{{ content }}
-       </section>
+		{{ content }}
+      </section>
     </div>
     <script src="javascripts/scale.fix.js"></script>
 
