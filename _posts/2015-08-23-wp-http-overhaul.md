@@ -2,7 +2,7 @@
 layout: post
 title: WP HTTP Overhaul
 permalink: /wp-http-overhaul/
-elevator_pitch: dd32 and rmmcue are going to try to replace the internals of the existing
+elevator_pitch: `dd32` and `rmmcue` are going to try to replace the internals of the existing
    HTTP API with Requests.
 ---
 
