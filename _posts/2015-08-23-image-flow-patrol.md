@@ -30,7 +30,7 @@ the update notice. [Upgrade/install: Update from an update notice, Macnchrome](h
 [Slack discusssion](https://wordpress.slack.com/archives/core/p1436997541001029),
 [Make notes](https://make.wordpress.org/core/2015/07/10/feature-plugin-chat-on-july-14/#comment-26336),
 [Core support for WordPress images to open in a modal window](https://make.wordpress.org/flow/2015/02/26/core-support-for-wordpress-images-to-open-in-a-modal-window/)
-* * Toolbar revamp: [#32678](https://core.trac.wordpress.org/ticket/32678)
+* Toolbar revamp: [#32678](https://core.trac.wordpress.org/ticket/32678)
 * I’m down with either of the experimental customizer plugins
 *  landing make-flow tickets: [make-flow](https://core.trac.wordpress.org/query?status=!closed&keywords=~make-flow)
 * And, of course, image flow. (See above)
