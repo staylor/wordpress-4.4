@@ -10,7 +10,7 @@ Led by: `wonderboymusic`, `helen`
 * Select2/Dropdowns - the next iteration of scaling large datasets of user, posts, etc
 * Page on Front perhaps: with Dave M and Folletto?
 
-Scott's pet projects for now or The Future:
+**Scott's pet projects for now or The Future:**
 
 Our admin PHP templates are a junk drawer and eschew all best practices for building scalable
 templating and routing systems. While implementing Controllers and switching to a real templating
