@@ -18,11 +18,11 @@ On the burner for this release:
 * potentially, [Transactions](https://core.trac.wordpress.org/ticket/30937)
 * JS-Driven [Widgets](https://core.trac.wordpress.org/ticket/33507)
 
-Pros:
+**Pros:**
 
 * We are relying on the Customizer for Theme Options now, the experience needs to scale
 
-Cons:
+**Cons:**
 
 * The Customizer is a black box for many people, sometimes even more than Media is.
 We need more people to take the plunge and learn these APIs.
