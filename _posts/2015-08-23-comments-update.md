@@ -12,13 +12,12 @@ the comments came in quick, and many required moderation. If you keep the commen
 moderation page open, there is no indication when new comments arrive. There is probably
 some work we can do here with the Heartbeat API.
 
-I recently dug into some of the ancient comment code to fix bubble counts dynamically when inline
-moderation happens.
+Perhaps a UI upgrade while we're at it.
 
 **Pros:**
 
 * Live comment moderation, doesn't require refreshing the page to see new comments
 or find out that there are comments to be moderated.
 * a chance to make use of Heartbeat
-
-**Cons:** The JS that powers the list table screen for comments now is old and painful to work with.
+* I recently dug into some of the ancient comment code to fix bubble counts dynamically when inline
+moderation happens - this whole screen can be rewritten in Backbone, fairly easily.

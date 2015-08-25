@@ -19,6 +19,7 @@ a lot of people want to see Term Meta land. Good for us: it's already on our
 Things to do next:
 
 * Potentially combine the 2 terms tables
+* MySQL bump for 5.0 to 5.0.3 for Views which may be a prereq for ...
 * Do something like setting `$wpdb->terms` to `$wpdb->term_taxonomy`
 * Hopefully land a `WP_Term` model
 * make Term Meta a thing

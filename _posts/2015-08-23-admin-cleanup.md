@@ -7,6 +7,11 @@ elevator_pitch: Identify portions of the admin that could use a reboot
 
 Led by: `wonderboymusic`, `helen`
 
+* Select2/Dropdowns - the next iteration of scaling large datasets of user, posts, etc
+* Page on Front perhaps: with Dave M and Folletto?
+
+Scott's pet projects for now or The Future:
+
 Our admin PHP templates are a junk drawer and eschew all best practices for building scalable
 templating and routing systems. While implementing Controllers and switching to a real templating
 language are perhaps out of scope, we can definitely make improvements to how our data is generated
@@ -17,8 +22,6 @@ and how our admin templates are stitched together. There are always UX improveme
 the data from the markup to make it easier to switch out the raw PHP for another templating
 language - Mustache, React, whatever. Even if we continue to use raw PHP, we can separate concerns
 better.
-* Select2/Dropdowns - the next iteration of scaling large datasets of user, posts, etc
-* Page on Front perhaps: with Dave M and Folletto?
 
 **Pros:**
 

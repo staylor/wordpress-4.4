@@ -13,3 +13,5 @@ Shortcodes being used in unconventional and undocumented ways have been a securi
 hurdle for a handful of releases now. `miqrogroove` has been the mercenary here.
 
 Here is his [roadmap](http://www.miqrogroove.com/blog/2015/shortcode-v44/)
+
+This needs buy-in from `mdawaffe`, `dd32`, `azaozz`

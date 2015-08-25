@@ -16,10 +16,11 @@ On the burner for this release:
 
 * [Partial Refresh](https://core.trac.wordpress.org/ticket/27355)
 * potentially, [Transactions](https://core.trac.wordpress.org/ticket/30937)
+* JS-Driven [Widgets](https://core.trac.wordpress.org/ticket/33507)
 
 Pros:
 
-* We are relying on the Customzer for Theme Options now, the experience needs to scale
+* We are relying on the Customizer for Theme Options now, the experience needs to scale
 
 Cons:
 
