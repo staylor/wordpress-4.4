@@ -5,7 +5,7 @@ permalink: /image-flow/
 elevator_pitch: There's a lot to comb through here, we could pick some small pieces
 ---
 
-Led by: `ericlewis`, with love from `wonderboymusic`
+Led by: `wonderboymusic`, `ericlewis`
 
 There's a lot to comb through here, we could pick some small pieces.
 

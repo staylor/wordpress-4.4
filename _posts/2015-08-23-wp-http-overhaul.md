@@ -5,7 +5,10 @@ permalink: /wp-http-overhaul/
 elevator_pitch: Let's replace the internals of the existing WP HTTP API with Requests.
 ---
 
-Led by: `dd32`, `rmccue`
+Led by: `dd32`, `rmccue`, `wonderboymusic`
+
+Status:
+* I may have to make the first crack at this for it to happen.
 
 Our internal HTTP API is showing its age. To support the kind of PHP apps that people
 are making with WordPress, we need a more modern set of tools. Ryan McCue has authored a

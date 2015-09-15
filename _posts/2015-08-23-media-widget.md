@@ -5,7 +5,7 @@ permalink: /media-widget/
 elevator_pitch: There is no default widget to add an Image/Audio/Video etc in the sidebar.
 ---
 
-Led by: `sheri`, `melchoyce`
+Led by: `wonderboymusic`, `sheri`, `melchoyce`
 
 This is on Mel Choyce's [wishlist](https://choycedesign.com/2015/01/23/my-top-wordpress-pain-points/).
 

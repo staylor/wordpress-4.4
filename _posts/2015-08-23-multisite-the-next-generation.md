@@ -9,8 +9,11 @@ Led by: `jeremyfelt`
 
 There are proposals for the following classes:
 
-* `WP_Site` [ticket](https://core.trac.wordpress.org/ticket/32450)
+Landed:
 * `WP_Network` [ticket](https://core.trac.wordpress.org/ticket/31985)
+
+Upcoming:
+* `WP_Site` [ticket](https://core.trac.wordpress.org/ticket/32450)
 * `WP_Network_Query` [ticket](https://core.trac.wordpress.org/ticket/32504)
 * `WP_Site_Query`
 

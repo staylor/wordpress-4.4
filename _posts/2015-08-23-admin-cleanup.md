@@ -7,6 +7,12 @@ elevator_pitch: Identify portions of the admin that could use a reboot
 
 Led by: `wonderboymusic`, `helen`
 
+Things that have been done:
+
+* Moved function declarations out of admin handlers
+
+Things to do:
+
 * Select2/Dropdowns - the next iteration of scaling large datasets of user, posts, etc
 * Page on Front perhaps: with Dave M and Folletto?
 
